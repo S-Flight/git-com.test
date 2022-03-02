@@ -5,5 +5,6 @@ public class hello {
         System.out.println("hello git");
         System.out.println("hahhahh");
         System.out.println("copy-master");
+        System.out.println("master-commit");
     }
 }
