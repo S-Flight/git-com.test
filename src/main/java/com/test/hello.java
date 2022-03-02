@@ -8,5 +8,6 @@ public class hello {
         System.out.println("master-commit");
         System.out.println("copy-mastertest");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
